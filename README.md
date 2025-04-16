@@ -1,6 +1,3 @@
 ## augustine.
 
-Highly qualified Software Developer with experience. Enjoy creative problem solving and getting exposure on multiple projects, and I would excel in the collaborative environment on which your company prides itself.
-
-### 🔍 Tech Stack
-React.js, Laravel, REST APIs, MySQL
+web, saas & product.
