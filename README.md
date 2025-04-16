@@ -1,6 +1,6 @@
 ## Augustine Onyejekwe.
 
-Highly qualified Web Developer with experience. Enjoy creative problem solving and getting exposure on multiple projects, and I would excel in the collaborative environment on which your company prides itself.
+Highly qualified Software Developer with experience. Enjoy creative problem solving and getting exposure on multiple projects, and I would excel in the collaborative environment on which your company prides itself.
 
 ### 💼 Projects
 - 🔧 [Code Sharing Website](https://devshare.codes) – JavaScript + Laravel full-stack demo
