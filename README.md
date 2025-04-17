@@ -1,3 +1,1 @@
-## augustine.
-
-web, saas & product.
+Highly qualified Web Developer with experience. Enjoy creative problem solving and getting exposure on multiple projects, and I would excel in the collaborative environment on which your company prides itself.
