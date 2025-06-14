@@ -1,3 +1,1 @@
-web, saas & product.
-
-dedicated to building :)
+dedicated to building...
