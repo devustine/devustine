@@ -1,1 +1,1 @@
-Developer | Tech Educator
+Software Engineer | Tech Educator
