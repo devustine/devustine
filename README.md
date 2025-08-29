@@ -2,4 +2,4 @@
 
 ml, infra & product.
 
-ping pong also :)
+somewhere building solutions :)
