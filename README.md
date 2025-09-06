@@ -1,5 +1,5 @@
-## Devustine.
+## Augustine.
 
-ml, infra & product.
+Web Developer | Transforming User Experience
 
 somewhere building solutions :)
