@@ -1,38 +1,17 @@
-### Hi there 👋  
-I Build Scalable Web & Mobile Experiences
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devustine&label=Profile%20views&color=0e75b6&style=flat" alt="Augustine" />
+</p>
 
-## About Me
+<!--<h3 align="left">Full-Stack Developer (React.js, React Native & Laravel)</h3>-->
 
-- 💻 Full-Stack Developer focused on **React.js, React Native, and Laravel**.  
-- 🚀 Passionate about crafting high-performing, user-friendly web and mobile applications.  
-- 🌍 Dedicated to helping startups and businesses bring their digital ideas to life.  
-- 🔧 Continuously learning and exploring new technologies to stay ahead in the ever-evolving tech world.
+I am **Augustine**, a full-stack software developer passionate about building robust and scalable **web and mobile applications** using **React.js**, **React Native**, and **Laravel**.  
+I’ve worked on several projects from concept to launch — building user-centric, performant apps that solve real business problems.
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=darcula&hide_border=true&background=FFFFFF00">
-<br>
+I love creating <a href="https://github.com/devustine?tab=repositories" target="_blank">open-source projects</a>,  
+<a href="https://linkedin.com/in/devustine" target="_blank">sharing my learning journey</a>,  
+<a href="https://youtube.com/@devustine" target="_blank">creating content about tech</a>,  
+and <a href="https://twitter.com/devustine" target="_blank">connecting with other developers</a>.  
 
-## What I Bring to the Table
+When I’m not coding, you’ll probably find me exploring new tools, helping others learn to code, or refining my craft through side projects and collaboration.
 
-- 🧠 Strong problem-solving and critical thinking skills.  
-- ⚙️ Expertise in building **RESTful APIs**, **modern UIs**, and **cross-platform apps**.  
-- 💡 A creative approach to turning ideas into elegant, real-world solutions.  
-- 🚀 Commitment to writing clean, maintainable, and scalable code.  
-- 🤝 Great communication and collaboration skills in remote and global teams.  
-
-<br>
-
-## Get in Touch
-
-I'm always excited to connect with entrepreneurs, developers, and innovators.  
-Let’s collaborate, share ideas, or build something amazing together.
-
-<p align="center">
-<a href="https://www.linkedin.com/in/devustine/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://twitter.com/devustine/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/_devustine/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.tiktok.com/@devustine"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
-<a href="mailto:hi@devustine.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p><br>
-
-Let's create, innovate, and build the future — one line of code at a time. 🚀💻
+Feel free to check out my <a href="https://devustine.com" target="_blank">portfolio</a> or reach out to me via email at <a href="mailto:devustine@gmail.com">devustine@gmail.com</a>.
