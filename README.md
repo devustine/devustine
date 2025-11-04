@@ -7,7 +7,7 @@
 I am **Augustine**, a web developer passionate about building robust and scalable **web applications** using **JavaScript**, **PHP**, and **Laravel**.  
 I’ve worked on several projects from concept to launch — building user-centric, performant apps that solve real business problems.
 
-I love creating <a href="https://github.com/devustine?tab=repositories" target="_blank">open-source projects</a>, <a href="https://linkedin.com/in/devustine" target="_blank">sharing my learning journey</a>, <a href="https://youtube.com/@devustine" target="_blank">creating content about tech</a>, and <a href="https://twitter.com/devustine" target="_blank">connecting with other developers</a>.  
+I love creating <a href="https://github.com/devustine?tab=repositories" target="_blank">open-source projects</a>, <a href="https://linkedin.com/in/devustine" target="_blank"> and sharing my learning journey</a>.  
 
 When I’m not coding, you’ll probably find me exploring new tools, helping others learn to code, or refining my craft through side projects and collaboration.
 
