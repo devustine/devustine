@@ -4,8 +4,7 @@
 
 <!--<h3 align="left">Full-Stack Developer (React.js, React Native & Laravel)</h3>-->
 
-I am **Augustine**, a Web Developer passionate about building robust and scalable **web applications** using **JavaScript** and **Laravel**.  
-I’ve worked on several projects from concept to launch,  building user-centric, performant apps that solve real business problems.
+I am **Augustine**, I specialize in **full-stack development** with **Next.js** and **Laravel**, and have a strong understanding of building scalable products with cross-functional teams. My core interest areas include Artificial Intelligence, Mixed Reality, Equity Management and Decentralized Finance.
 
 I love creating <a href="https://github.com/devustine?tab=repositories" target="_blank">open-source projects</a>, and <a href="https://linkedin.com/in/devustine" target="_blank">sharing my learning journey</a>.  
 
