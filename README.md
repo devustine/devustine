@@ -1,1 +1,1 @@
-somewhere building solutions :)
+software, hardware, AI :)
