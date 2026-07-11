@@ -1,1 +1,1 @@
-software, hardware, AI :)
+software, hardware, ai :)
